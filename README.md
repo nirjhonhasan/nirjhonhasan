@@ -1,6 +1,6 @@
 <!-- Dynamic Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=200&section=header&text=Abul%20Hasan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Next.js%20%26%20TypeScript%20Specialist&descSize=18&descAlignY=60" width="100%" />
+  <img src="./banner.png" alt="Abul Hasan Banner" width="100%" />
 </p>
 
 <!-- Typing Animation -->
